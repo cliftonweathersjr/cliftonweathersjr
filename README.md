@@ -7,5 +7,3 @@ I am a Cloud Operations Engineer. Passionate about learning new information revo
 - 📝 I’m currently learning **Kubernetes**, **Terraform** and **Python**.
 - 👨‍💻 All of my projects are available at [https://github.com/cliftonweathersjr](https://github.com/cliftonweathersjr)
 - 📫 Reach out to me at **cliftonweathersjr@gmail.com**
-
-# Test to see if SSH works
